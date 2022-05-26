@@ -6,7 +6,7 @@
 
 ## **目次**
 
-### [**1. 画像のヒストグラムを作成**](https://github.com/Yuki-Ikeda0810/IP_Tutorial/blob/main/colab/histgram.ipynb)
+### [**1. 画像のヒストグラムを作成**](https://github.com/Yuki-Ikeda0810/IP_Tutorial/blob/main/colab/hisotgram.ipynb)
 
 ### [**2. 画像のエッジ(輪郭)を抽出**](https://github.com/Yuki-Ikeda0810/IP_Tutorial/blob/main/colab/edge_detection.ipynb)
 
